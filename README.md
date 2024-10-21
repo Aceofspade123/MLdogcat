@@ -1,2 +1,6 @@
 # MLdogcat
-This model classifies dogs and cats images
+This model classifies dog and cat images
+## Overview
+This project is done in the scope of the DSTI.
+
+** Note: see the installation for more guidelines.
